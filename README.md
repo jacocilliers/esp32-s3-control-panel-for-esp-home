@@ -337,7 +337,7 @@ lvgl:
                     service: switch.toggle
                     data:
                       entity_id: switch.demo  # link your own entities here
-
+                      
 interval:
   - interval: 10s
     then:
